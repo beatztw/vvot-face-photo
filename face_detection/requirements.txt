@@ -1,0 +1,3 @@
+boto3
+requests_auth_aws_sigv4
+requests

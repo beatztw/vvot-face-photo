@@ -1,0 +1,5 @@
+tg_bot_key = "xxxxx"
+cloud_id = "xxxxx"
+folder_id = "xxxxx"
+folder_name = "vvot22"
+zone = "ru-central1-a"
